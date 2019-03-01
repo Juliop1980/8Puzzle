@@ -96,7 +96,7 @@ Donde `heurística` indica la función heurística a utilizar y puede tomar cuat
 
 Se tiene que `instancia` es el nombre de un archivo con los datos del tablero, el cual es representado con tres filas y tres columnas de números desde el 0 hasta el 8, separados por espacio.
 
-Si en la entrada no se indica una heurística y/o una instancia, entonces se debe dar un mensaje de error al usuario.
+Si en la entrada no se indica una heurística y/o una instancia, entonces se da un mensaje de error al usuario.
 
 #### 4.2. Salida de los datos
 
